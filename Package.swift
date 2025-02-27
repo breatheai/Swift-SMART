@@ -9,7 +9,7 @@ import PackageDescription
 let package = Package(
     name: "SMART",
 	platforms: [
-        .macOS(.v10_15),
+        .macOS(.v15),
         .iOS(.v12),
     ],
     products: [
